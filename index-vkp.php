@@ -1,11 +1,11 @@
 <?php
 /*
-  Plugin Name: VK Poster Group
-  Plugin URI: http://www.zixn.ru/plagin-vk-poster-group.html
+  Plugin Name: VK Poster Group without Titles
+  Plugin URI: https://github.com/jarpex/vk-poster-group
   Description: Добавляет ваши записи на страницу группы Вконтакте, простой и удобный кроспостинг в социальную сеть
-  Version: 2.0.3
-  Author: Djo
-  Author URI: https://zixn.ru
+  Version: 2.0.4
+  Author: Djo, Jarpex
+  Author URI: https://zixn.ru , https://jarpex.ru
  */
 
 /*  Copyright 2021  Djo  (email: izm@zixn.ru)

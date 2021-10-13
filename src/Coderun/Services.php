@@ -111,9 +111,9 @@ class Services {
         }
         
         if ($vkposter_counttext == 0) { //пост без ограничений
-            $text_clear = wp_kses($title, 'strip') . "\n\n " . wp_kses($text, 'strip');
+            $text_clear = wp_kses($text, 'strip');
         } else { //Пост с обрезкой до кол-ва знаков указанных пользователем
-            $text_clear = wp_kses($title, 'strip') . "\n\n " . wp_trim_words(wp_kses($text, 'strip'), $vkposter_counttext, '...');
+            $text_clear = wp_trim_words(wp_kses($text, 'strip'), $vkposter_counttext, '...');
         }
         unset($text);
         

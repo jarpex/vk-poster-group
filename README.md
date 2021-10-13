@@ -1,2 +1,2 @@
-# vk-poster-group
-WordPress плагин - https://wordpress.org/plugins/vk-poster-group/
+# vk-poster-group без заголовка в записи
+

@@ -1,6 +1,6 @@
-=== VK Poster Group ===
-Contributors: northmule
-Donate link: https://yoomoney.ru/to/41001746944171
+=== VK Poster Group fixed post title ===
+Contributors: northmule, jarpex
+Donate link: https://yoomoney.ru/to/41001746944171 ,  https://donate.jarpex.ru
 Tags: vkontakte, vk, autopost, auto-post, auto post, social, vk.com
 Requires at least: 4.9
 Tested up to: 5.8
@@ -43,6 +43,8 @@ This project supports the best IDE for development [JetBrains](https://www.jetbr
 4. Страница настроек плагина
 
 == Changelog ==
+= 2.0.4 =
+* Удалила постинг заголовков
 = 2.0.3 =
 * fix version VK
 = 2.0.2 =
